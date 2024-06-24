@@ -18,6 +18,7 @@ public class area_14 {
 
         System.out.println("The area of the rectangle is : " + area );
 
+        //RAHAT
 
     }
 
